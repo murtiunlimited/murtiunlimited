@@ -88,8 +88,11 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=murtiunlimited&v=1" />
+<div align="center">
 
+<img height="150" src="https://streak-stats.demolab.com?user=murtiunlimited" />
+
+</div>
 ---
 
 ## ⚡ What I'm Working On
