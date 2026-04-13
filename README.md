@@ -31,3 +31,14 @@ Expert in SQL data modeling and large-scale analytics, prioritizing modular, pro
 * Integrated an LLM-powered chatbot via GroqCloud API for contextual user guidance.
 * Designed a modular project structure separating data processing, training, and application logic.
 * **Tech:** Scikit-Learn, Docker, AWS EC2, Streamlit, GroqCloud API.
+
+#### SQL Analytics & HR Data Modeling
+* Designed and generated a relational HR dataset with 40,000+ records to simulate recruitment workflows.
+* Implemented automated data generation pipelines in PostgreSQL to ensure referential integrity.
+* Executed advanced analytics using Window Functions, CTEs, and cohort analysis for bias detection.
+* **Tech:** PostgreSQL, Data Modeling, Python.
+
+#### Battery Performance Deep Learning
+* Designed a multi-layer feedforward neural network with ReLU activations and Dropout regularization for regression.
+* Serialized the model and preprocessing pipeline (MinMaxScaler) for production reproducibility.
+* **Tech:** TensorFlow (Keras), Scikit-Learn, Neural Networks.
