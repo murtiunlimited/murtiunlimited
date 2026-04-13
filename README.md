@@ -42,3 +42,10 @@ Expert in SQL data modeling and large-scale analytics, prioritizing modular, pro
 * Designed a multi-layer feedforward neural network with ReLU activations and Dropout regularization for regression.
 * Serialized the model and preprocessing pipeline (MinMaxScaler) for production reproducibility.
 * **Tech:** TensorFlow (Keras), Scikit-Learn, Neural Networks.
+
+---
+
+### Professional Links
+
+* [LinkedIn](https://linkedin.com/in/murtaza-hussain-87446a30b)
+* [Email](mailto:murtaza32004@gmail.com)
