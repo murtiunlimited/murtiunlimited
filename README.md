@@ -16,3 +16,18 @@ Expert in SQL data modeling and large-scale analytics, prioritizing modular, pro
 * **Data Engineering:** Data Modeling, Synthetic Dataset Generation, ETL, Window Functions, CTEs
 * **Mathematics:** Linear Algebra, Multivariable Calculus, Statistics, Discrete Structures
 
+---
+
+### Featured Projects
+
+#### Real-time Face & Emotion Detection
+* Developed a custom CNN-based deep learning model to recognize seven human emotions in real-time.
+* Built a FastAPI backend for model inference and a web-based frontend with a live webcam feed (15 FPS).
+* Optimized image preprocessing and data augmentation to improve model generalization.
+* **Tech:** TensorFlow, FastAPI, OpenCV, Python.
+
+#### Placement Prediction System (MLOps)
+* Built an end-to-end classification application containerized with Docker and deployed on AWS EC2.
+* Integrated an LLM-powered chatbot via GroqCloud API for contextual user guidance.
+* Designed a modular project structure separating data processing, training, and application logic.
+* **Tech:** Scikit-Learn, Docker, AWS EC2, Streamlit, GroqCloud API.
