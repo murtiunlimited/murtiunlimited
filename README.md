@@ -19,8 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza%20&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/> -->
 
 <h3 align="center">
   Welcome to my GitHub Profile
