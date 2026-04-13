@@ -90,10 +90,9 @@
 
 <div align="center">
 
-<img height="150" src="https://streak-stats.demolab.com?user=murtiunlimited" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=murtiunlimited&theme=tokyonight&hide_border=true"/>
 
 ---
-
 </div>
 
 
