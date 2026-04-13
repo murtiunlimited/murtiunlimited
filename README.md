@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-USERNAME">
+<a href="https://www.linkedin.com/in/murtaza-hussain-ml/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:murtaza32004@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
