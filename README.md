@@ -90,6 +90,8 @@
 
 <div align="center">
 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=murtiunlimited&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=murtiunlimited&theme=tokyonight&hide_border=true"/>
 
 ---
