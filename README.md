@@ -17,8 +17,10 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=120"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza%20&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"/>
 </div>
 
 ---
