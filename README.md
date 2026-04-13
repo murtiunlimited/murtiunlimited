@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello World!%20I'm%20Murtaza%20&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%20I%27m%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/> -->
 
