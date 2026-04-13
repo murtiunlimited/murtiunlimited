@@ -1,10 +1,10 @@
 <div align="center">
 
 # Murtaza Hussain  
-### ⚡ Data Scientist | ML Engineer  
+###  Data Scientist | ML Engineer  
 
-📍 San Jose, CA  
-🎓 Data Science @ Evergreen Valley College  
+ San Jose, CA  
+ Data Science @ Evergreen Valley College  
 
 <br/>
 
