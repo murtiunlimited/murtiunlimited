@@ -47,46 +47,46 @@
 ###  Real-time Face & Emotion Detection
 > **CNN (Keras) • FastAPI • OpenCV**
 
--  Real-time inference (~15 FPS)
--  Optimized model accuracy vs latency trade-offs  
--  Automated preprocessing + augmentation pipeline  
--  Live API + webcam interface  
+- Real-time inference (~15 FPS)
+- Optimized model accuracy vs latency trade-offs  
+- Automated preprocessing + augmentation pipeline  
+- Live API + webcam interface  
 
 ---
 
 ###  Placement Prediction System (Full-Stack ML)
 > **Scikit-learn • Streamlit • Docker • AWS EC2**
 
--  Modular ML pipeline (scaling, encoding, inference)  
--  Integrated LLM (GroqCloud) for contextual insights  
--  Deployed containerized app on EC2  
+- Modular ML pipeline (scaling, encoding, inference)  
+- Integrated LLM (GroqCloud) for contextual insights  
+- Deployed containerized app on EC2  
 
 ---
 
 ###  SQL Analytics Engine
 > **PostgreSQL • Data Modeling**
 
--  Built 40K+ record synthetic dataset  
--  Used **CTEs, Window Functions, Cohort Analysis**  
--  Simulated real-world hiring funnel analytics  
+- Built 40K+ record synthetic dataset  
+- Used **CTEs, Window Functions, Cohort Analysis**  
+- Simulated real-world hiring funnel analytics  
 
 ---
 
 ###  Battery Performance Prediction
 > **TensorFlow • Deep Learning**
 
--  Regression model for electrochemical prediction  
--  Stabilized training with Dropout + scaling  
--  Serialized full inference pipeline  
+- Regression model for electrochemical prediction  
+- Stabilized training with Dropout + scaling  
+- Serialized full inference pipeline  
 
 ---
 
 ###  Book Recommendation System
 > **KNN • SciPy**
 
--  Sparse matrix optimization (CSR format)  
--  Cosine similarity for recommendations  
--  Efficient nearest-neighbor search  
+- Sparse matrix optimization (CSR format)  
+- Cosine similarity for recommendations  
+- Efficient nearest-neighbor search  
 
 ---
 
@@ -101,9 +101,9 @@
 
 
 ## ⚡ What I'm Working On
--  Retrieval-Augmented Generation (RAG) systems  
--  Scalable ML APIs with FastAPI  
--  LLM + real-world applications  
+- Retrieval-Augmented Generation (RAG) systems  
+- Scalable ML APIs with FastAPI  
+- LLM + real-world applications  
 
 ---
 
