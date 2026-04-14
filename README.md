@@ -4,7 +4,7 @@
 ### ⚡ Data Scientist | ML Engineer  
 
 📍 San Jose, CA  
- Data Science @ Evergreen Valley College  
+Data Science @ Evergreen Valley College  
 
 <br/>
 
@@ -18,19 +18,24 @@
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%21%21%20I%27m%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/> -->
 
-<h3 align="center">
+<h3>
   Welcome to my GitHub Profile
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
 </h3>
 
+</div>
+
 ---
 
-##  About Me
-- Building **end-to-end ML systems** (not just notebooks)
-- Focused on **production ML, backend systems, and scalability**
-- Interested in **AI infrastructure, RAG pipelines, and real-time inference**
+## About Me
+<p>
+- Building <b>end-to-end ML systems</b> (not just notebooks)<br/>
+- Focused on <b>production ML, backend systems, and scalability</b><br/>
+- Interested in <b>AI infrastructure, RAG pipelines, and real-time inference</b>
+</p>
 
 ---
 
@@ -42,19 +47,19 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Real-time Face & Emotion Detection
+### Real-time Face & Emotion Detection
 > **CNN (Keras) • FastAPI • OpenCV**
 
-- Real-time inference (~15 FPS)
+- Real-time inference (~15 FPS)  
 - Optimized model accuracy vs latency trade-offs  
 - Automated preprocessing + augmentation pipeline  
 - Live API + webcam interface  
 
 ---
 
-###  Placement Prediction System (Full-Stack ML)
+### Placement Prediction System (Full-Stack ML)
 > **Scikit-learn • Streamlit • Docker • AWS EC2**
 
 - Modular ML pipeline (scaling, encoding, inference)  
@@ -63,7 +68,7 @@
 
 ---
 
-###  SQL Analytics Engine
+### SQL Analytics Engine
 > **PostgreSQL • Data Modeling**
 
 - Built 40K+ record synthetic dataset  
@@ -72,7 +77,7 @@
 
 ---
 
-###  Battery Performance Prediction
+### Battery Performance Prediction
 > **TensorFlow • Deep Learning**
 
 - Regression model for electrochemical prediction  
@@ -81,7 +86,7 @@
 
 ---
 
-###  Book Recommendation System
+### Book Recommendation System
 > **KNN • SciPy**
 
 - Sparse matrix optimization (CSR format)  
@@ -96,19 +101,21 @@
 
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=murtiunlimited&theme=tokyonight&hide_border=true"/>
 
----
 </div>
 
+---
 
 ## ⚡ What I'm Working On
-- Retrieval-Augmented Generation (RAG) systems  
-- Scalable ML APIs with FastAPI  
+<p>
+- Retrieval-Augmented Generation (RAG) systems<br/>
+- Scalable ML APIs with FastAPI<br/>
 - LLM + real-world applications  
+</p>
 
 ---
 
 <div align="center">
-  
-###  “Building systems, not just models.”
+
+### “Building systems, not just models.”
 
 </div>
