@@ -1,10 +1,10 @@
 <div align="center">
 
 # Murtaza Hussain  
-### ⚡ Data Scientist | ML Engineer  
+### ⚡ Machine Learning Engineer | Data Science | AI Systems Builder  
 
 📍 San Jose, CA  
-Data Science @ Evergreen Valley College  
+🎓 Data Science @ Evergreen Valley College  
 
 <br/>
 
@@ -17,105 +17,121 @@ Data Science @ Evergreen Valley College
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%21%21%20I%27m%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Murtaza&fontSize=40&fontColor=ffffff&animation=fadeIn"/> -->
-
-<h3>
-  Welcome to my GitHub Profile
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20ML%20Systems%20End-to-End&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-## About Me
-<p>
-- Building <b>end-to-end ML systems</b> (not just notebooks)<br/>
-- Focused on <b>production ML, backend systems, and scalability</b><br/>
-- Interested in <b>AI infrastructure, RAG pipelines, and real-time inference</b>
-</p>
+## 🚀 About Me
+
+I’m a Machine Learning engineer focused on building **end-to-end, production-ready AI systems**, not just models in notebooks.
+
+I enjoy working across:
+- ML model development (CV, classical ML, DL)
+- Backend systems (FastAPI, APIs, inference pipelines)
+- Deployment (Docker, AWS)
+- Data systems (SQL, analytics, feature engineering)
+
+Currently exploring **RAG systems, LLM applications, and scalable ML infrastructure**.
+
+---
+
+## 🧠 What I Care About
+
+- Turning ML models into **real applications**
+- Optimizing for **latency, accuracy, and scalability trade-offs**
+- Designing **clean, modular ML pipelines**
+- Shipping working systems, not just experiments
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,fastapi,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch,fastapi,docker,aws,git" />
 </p>
 
 ---
 
-## Featured Projects
+## 🔥 Featured Projects
 
-### Real-time Face & Emotion Detection
-> **CNN (Keras) • FastAPI • OpenCV**
+### ⚡ Real-Time Face & Emotion Detection System
+> CNN (Keras) • OpenCV • FastAPI • Real-time Inference
 
-- Real-time inference (~15 FPS)  
-- Optimized model accuracy vs latency trade-offs  
-- Automated preprocessing + augmentation pipeline  
-- Live API + webcam interface  
-
----
-
-### Placement Prediction System (Full-Stack ML)
-> **Scikit-learn • Streamlit • Docker • AWS EC2**
-
-- Modular ML pipeline (scaling, encoding, inference)  
-- Integrated LLM (GroqCloud) for contextual insights  
-- Deployed containerized app on EC2  
+- Built a real-time computer vision pipeline with webcam integration  
+- Achieved ~15 FPS inference with optimized preprocessing pipeline  
+- Designed modular FastAPI backend for inference serving  
+- Tuned trade-off between **latency vs model accuracy**
 
 ---
 
-### SQL Analytics Engine
-> **PostgreSQL • Data Modeling**
+### 📊 Placement Prediction System (Full-Stack ML App)
+> Scikit-learn • Streamlit • FastAPI • Docker • AWS EC2
 
-- Built 40K+ record synthetic dataset  
-- Used **CTEs, Window Functions, Cohort Analysis**  
-- Simulated real-world hiring funnel analytics  
-
----
-
-### Battery Performance Prediction
-> **TensorFlow • Deep Learning**
-
-- Regression model for electrochemical prediction  
-- Stabilized training with Dropout + scaling  
-- Serialized full inference pipeline  
+- End-to-end ML pipeline: preprocessing → training → inference API  
+- Deployed containerized ML app on AWS EC2  
+- Integrated LLM (GroqCloud) for contextual prediction insights  
+- Built modular pipeline for easy retraining and scaling  
 
 ---
 
-### Book Recommendation System
-> **KNN • SciPy**
+### 🧮 SQL Analytics Engine (Hiring Funnel Simulation)
+> PostgreSQL • Advanced SQL • Data Modeling
 
-- Sparse matrix optimization (CSR format)  
-- Cosine similarity for recommendations  
-- Efficient nearest-neighbor search  
+- Designed synthetic dataset (40K+ records) simulating hiring pipeline  
+- Implemented cohort analysis, window functions, and CTE-based queries  
+- Built analytics system to track funnel conversion behavior  
+- Focused on query optimization and relational modeling  
 
 ---
 
-## 📈 GitHub Stats
+### 🔋 Battery Performance Prediction Model
+> TensorFlow • Deep Learning • Regression
+
+- Built regression model for electrochemical performance prediction  
+- Improved training stability using normalization + dropout  
+- Designed reusable inference pipeline for deployment  
+- Evaluated model performance using error-based metrics  
+
+---
+
+### 📚 Book Recommendation System
+> KNN • SciPy • Sparse Matrices
+
+- Built collaborative filtering system using cosine similarity  
+- Optimized memory using sparse CSR matrix representation  
+- Implemented fast nearest-neighbor retrieval pipeline  
+
+---
+
+## ⚙️ Current Work
+
+- Retrieval-Augmented Generation (RAG) pipelines using vector databases  
+- Scalable ML APIs with FastAPI + Docker  
+- LLM-powered real-world applications  
+- Improving model deployment + monitoring workflows  
+
+---
+
+## 📈 What This Repo Shows
+
+This portfolio demonstrates:
+- End-to-end ML system design (not just training models)
+- Backend + deployment experience
+- Applied machine learning across multiple domains
+- Strong focus on productionization and scalability
+
+---
+
+## 🎯 Goal
+
+To become a **Machine Learning Engineer focused on production AI systems**, building scalable and reliable ML infrastructure in real-world environments.
+
+---
 
 <div align="center">
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=murtiunlimited&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ⚡ What I'm Working On
-<p>
-- Retrieval-Augmented Generation (RAG) systems<br/>
-- Scalable ML APIs with FastAPI<br/>
-- LLM + real-world applications  
-</p>
-
----
-
-<div align="center">
-
-### “Building systems, not just models.”
+### “Don’t just train models — ship systems that use them.”
 
 </div>
