@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20ML%20Systems%20End-to-End&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!!%20I'm%20Murtaza%20&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
