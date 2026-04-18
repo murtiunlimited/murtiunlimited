@@ -27,6 +27,7 @@
 
 I’m a Machine Learning engineer focused on building **end-to-end, production-ready AI systems**, not just models in notebooks.
 
+
 I enjoy working across:
 - ML model development (CV, classical ML, DL)
 - Backend systems (FastAPI, APIs, inference pipelines)
