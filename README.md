@@ -133,6 +133,5 @@ To become a **Machine Learning Engineer focused on production AI systems**, buil
 
 <div align="center">
 
-### “Don’t just train models — ship systems that use them.”
 
 </div>
