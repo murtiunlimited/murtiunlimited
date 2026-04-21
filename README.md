@@ -26,17 +26,13 @@
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=murtiunlimited&show_icons=true&theme=radical" height="165"/>
+<img src="https://streak-stats.demolab.com?user=murtiunlimited&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtiunlimited&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murtiunlimited&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
 
 ## 🚀 About Me
 
