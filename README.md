@@ -68,7 +68,7 @@ Currently exploring **RAG systems, LLM applications, and scalable ML infrastruct
 
 ## 🔥 Featured Projects
 
-### ⚡ Real-Time Face & Emotion Detection System
+### ⚡ Real-Time Face & Emotion Detection System (Full-Stack DLOPS Project)
 > CNN (Keras) • OpenCV • FastAPI • Real-time Inference
 
 - Built a real-time computer vision pipeline with webcam integration  
