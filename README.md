@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/murtiml">
+<a href="https://www.linkedin.com/in/murtiml" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:murtaza32004@gmail.com">
